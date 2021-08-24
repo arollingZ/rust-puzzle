@@ -1,12 +1,12 @@
 # rust-puzzle #
 ###who###
-> arollingZ
+-arollingZ
 ###when
-> 2021.8.20
+-2021.8.20
 ###why
-> learning
+-learning
 ###how
-> use it
+-use it
 ###what
-> stitching together the separate pieces of data.
+-stitching together the separate pieces of data.
 
