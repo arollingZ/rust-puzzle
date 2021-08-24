@@ -1,12 +1,12 @@
 # rust-puzzle
--who
+###who
 > arollingZ
--when
+###when
 > 2021.8.20
--why
+###why
 > learning
--how
+###how
 > use it
--what
+###what
 > stitching together the separate pieces of data.
 
