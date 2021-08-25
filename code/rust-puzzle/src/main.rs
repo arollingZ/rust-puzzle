@@ -1,5 +1,7 @@
 use std::io;
+//用于捕捉keyboard输入
 use std::cmp::Ordering;
+//原本想用match的方式来对数据包是否为最后一包进行判断，但是遇到变量作用域的问题未解决，此处先不用，待掌握作用域后再做优化
 
 /*泛型结构体
 使用泛型的目的，在于将for循环中的循环次数i作为参数传入pieces_index,原本设计pieces_index是u32类型，
